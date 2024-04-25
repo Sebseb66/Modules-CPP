@@ -1,1 +1,9 @@
-# Modules-CPP
+## 09/01/24 Module 00 [![sfroidev's 42 CPP Module 00 Score](https://badge42.coday.fr/api/v2/clvc5zhsr1978001p4a960jya6/project/3593248)](https://github.com/Coday-meric/badge42)
+## 15/01/24 Module 01 [![sfroidev's 42 CPP Module 01 Score](https://badge42.coday.fr/api/v2/clvc5zhsr1978001p4a960jya6/project/3593248)](https://github.com/Coday-meric/badge42)
+## 18/01/24 Module 02 [![sfroidev's 42 CPP Module 02 Score](https://badge42.coday.fr/api/v2/clvc5zhsr1978001p4a960jya6/project/3593248)](https://github.com/Coday-meric/badge42)
+## 22/01/24 Module 03 [![sfroidev's 42 CPP Module 03 Score](https://badge42.coday.fr/api/v2/clvc5zhsr1978001p4a960jya6/project/3593248)](https://github.com/Coday-meric/badge42)
+## 26/01/24 Module 04 [![sfroidev's 42 CPP Module 04 Score](https://badge42.coday.fr/api/v2/clvc5zhsr1978001p4a960jya6/project/3593248)](https://github.com/Coday-meric/badge42)
+## 28/03/24 Module 05 [![sfroidev's 42 CPP Module 05 Score](https://badge42.coday.fr/api/v2/clvc5zhsr1978001p4a960jya6/project/3593248)](https://github.com/Coday-meric/badge42)
+## 04/04/24 Module 06 [![sfroidev's 42 CPP Module 06 Score](https://badge42.coday.fr/api/v2/clvc5zhsr1978001p4a960jya6/project/3593248)](https://github.com/Coday-meric/badge42)
+## 09/04/24 Module 07 [![sfroidev's 42 CPP Module 07 Score](https://badge42.coday.fr/api/v2/clvc5zhsr1978001p4a960jya6/project/3593248)](https://github.com/Coday-meric/badge42)
+## 22/04/24 Module 08 [![sfroidev's 42 CPP Module 08 Score](https://badge42.coday.fr/api/v2/clvc5zhsr1978001p4a960jya6/project/3593248)](https://github.com/Coday-meric/badge42)
